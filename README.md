@@ -13,7 +13,7 @@ _pkg install python_
 
    _pkg install python_
 
-   _git clone https://github.com/vickykhan80/hangman-game.git_
+   _git clone https://github.com/vickykhan80/Hangman.git_
    
    _cd hangman-game_
 
